@@ -1,6 +1,6 @@
 Yksinkertainen monipeli. Painikkeen painaminen maksaa 1 pisteen, 
 jokainen pelaaja saa lähtötilanteessa 20 pistettä. Painiketta voi painaa jos saldo positiivinen.
-Painikkeen painettua tulee ilmloitus mahdollisesta voitosta.
+Painikkeen painettua tulee ilmoitus mahdollisesta voitosta.
 
 Voitot: 
 5 pistettä joka 10. painallus
